@@ -1,4 +1,4 @@
-import { getCSS, tickConfig, criarGrafico } from "./common.js"
+
 import { getCSS, criarGrafico } from './common.js';
 
 async function quantidadeUsuariosPorRede() {
